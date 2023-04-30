@@ -1,0 +1,84 @@
+Model,Acceleration,Battery Useable,Efficiency,Range,Top Speed,Purchase
+Tesla Model 3,6.1,57.5,151,380,225,NO
+Tesla Model 3 Long Range Dual Motor,4.4,75,155,485,233,YES
+Tesla Model 3 Performance,3.3,75,163,460,261,NO
+Tesla Model S Dual Motor,3.2,95,167,570,250,YES
+Tesla Model S Plaid,2.1,95,173,550,282,YES
+Tesla Model X Plaid,2.6,95,209,455,262,YES
+Tesla Model X Dual Motor,3.9,95,202,470,250,YES
+Tesla Model Y,6.9,57.5,167,345,217,YES
+Tesla Model Y Long Range Dual Motor,5,75,172,435,217,YES
+Tesla Model Y Performance,3.7,75,181,415,250,NO
+Nissan Leaf,7.9,39,166,235,144,NO
+Nissan Leaf e+,6.9,59,174,340,157,NO
+Toyota bZ4X FWD,7.5,64,191,335,160,YES
+Toyota bZ4X AWD,6.9,64,194,330,160,YES
+Toyota Proace City Verso Electric L1,11.2,46.3,220,210,135,NO
+Toyota Proace City Verso Electric L2,11.2,46.3,226,205,135,NO
+Toyota Proace Verso M 75 kWh,12.1,68,257,265,130,YES
+Toyota Proace Shuttle M 50 kWh,12.1,46.3,257,180,130,YES
+Toyota Proace Shuttle L 50 kWh,12.1,46.3,257,180,130,YES
+Toyota Proace Shuttle M 75 kWh,13.1,68,262,260,130,YES
+Toyota Proace Shuttle L 75 kWh,13.1,68,262,260,130,YES
+Toyota Proace Verso L 75 kWh,13.1,68,262,260,130,YES
+Hyundai Kona Electric 39 kWh,9.9,39,157,250,155,NO
+Hyundai Kona Electric 48 kWh,10,48.4,161,300,155,NO
+Hyundai Kona Electric 64 kWh,7.9,64,162,395,167,YES
+Hyundai Kona Electric 65 kWh,8,65.4,164,400,167,YES
+Hyundai IONIQ 5 Standard Range 2WD,8.5,54,183,295,185,NO
+Hyundai IONIQ 5 Long Range 2WD,7.3,74,190,390,185,YES
+Hyundai IONIQ 5 Long Range AWD,5.1,74,192,385,185,YES
+Audi Q8 e-tron Sportback 50 quattro,6,89,202,440,200,YES
+Audi Q8 e-tron Sportback 55 quattro,5.6,106,202,525,200,YES
+Audi e-tron GT RS,3.3,85,210,405,250,NO
+Audi e-tron GT quattro,4.1,85,202,420,245,NO
+Audi SQ8 e-tron ,4.5,106,238,445,210,NO
+Audi Q8 e-tron 50 quattro,5.6,89,214,415,200,NO
+Audi Q8 e-tron 55 quattro,5.6,106,214,495,200,YES
+Audi SQ8 e-tron Sportback,4.5,106,226,470,210,YES
+Volvo C40 Recharge Single Motor ,7.3,66,188,355,180,NO
+Volvo C40 Recharge Single Motor ER,7.3,79,188,420,180,YES
+Volvo C40 Recharge Twin Motor,4.7,79,198,400,180,YES
+Volvo XC40 Recharge Single Motor,7.3,66,191,345,180,NO
+Volvo XC40 Recharge Single Motor ER,7.3,79,195,405,180,YES
+Volvo XC40 Recharge Twin Motor,4.8,79,203,390,180,YES
+BMW i4 eDrive40,5.7,80.7,172,470,190,YES
+BMW i4 M50,3.9,80.7,186,435,225,YES
+BMW iX xDrive40,6.1,71,197,360,200,NO
+BMW iX xDrive50,4.6,105.2,208,505,200,YES
+BMW iX M60,3.8,105.2,217,485,250,YES
+BMW iX1 xDrive30,5.6,64.7,182,355,180,NO
+BMW iX3,6.8,74,192,385,180,NO
+Mercedes EQS 450+,6.2,107.8,168,640,210,YES
+Mercedes EQS SUV 450+,6.7,108.4,219,495,210,NO
+Mercedes EQS SUV 450 4MATIC,6,108.4,224,485,210,NO
+Mercedes EQS SUV 500 4MATIC,5.2,108.4,224,485,210,YES
+Mercedes EQS SUV 580 4MATIC,4.6,108.4,224,485,210,YES
+Mercedes EQS 450 4MATIC,5.6,107.8,175,615,210,YES
+Mercedes EQS 500 4MATIC,4.8,107.8,178,605,210,YES
+Mercedes EQS 580 4MATIC,4.3,107.8,178,605,210,YES
+Mercedes EQE 350+,6.4,90.6,173,525,210,YES
+Mercedes EQE 300,7.6,89,173,515,210,YES
+Mercedes EQE 350,6.4,89,173,515,210,YES
+Mercedes EQE SUV 350+,7,90.6,193,470,210,NO
+Mercedes EQE 350 4MATIC,6.3,90.6,181,500,210,NO
+Mercedes EQE 500 4MATIC,6.3,90.6,181,500,210,NO
+Mercedes EQE AMG 43 4MATIC,4.2,90.6,187,485,210,YES
+Mercedes EQE AMG 53 4MATIC,3.5,90.6,189,485,240,YES
+Mercedes EQE AMG 53 4MATIC+,3.5,90.6,191,480,240,YES
+Mercedes EQE SUV 350 4MATIC,6.5,90.6,199,455,210,NO
+Mercedes EQE SUV 500 4MATIC,5,90.6,199,455,210,NO
+Mercedes EQE SUV AMG 43 4MATIC,4.3,90.6,208,435,210,NO
+Mercedes EQE SUV AMG 53 4MATIC+,3.5,90.6,213,425,240,YES
+Mercedes EQA 250+,8.6,70.5,188,375,160,NO
+Mercedes EQA 300 4MATIC,7.7,66.5,190,350,160,NO
+Mercedes EQA 350 4MATIC,6,66.5,190,350,160,NO
+Mercedes EQB 250,8.9,66.5,193,345,160,NO
+Mercedes EQB 250+,8.9,70.5,193,365,160,NO
+Mercedes EQB 300 4MATIC,8,66.5,199,335,160,NO
+Mercedes EQB 350 4MATIC,6.2,66.5,199,335,160,YES
+Mercedes EQC 400 4MATIC,5.1,80,216,370,160,YES
+Mercedes EQV 250 Long,12,60,293,205,160,NO
+Mercedes EQV 250 Extra-Long,12,60,293,205,160,NO
+Mercedes EQV 300 Long,12.1,90,295,305,160,NO
+Mercedes EQV 300 Extra-Long,12.1,90,295,305,160,NO
